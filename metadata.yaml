@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/750
     wikipedia: http://en.wikipedia.org/wiki/Harold_MacGrath
 description: '"An extravagant romance of a European Duchy."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17391#The-Princess-Elopes
 gutenberg_issued: '2005-12-25'
 gutenberg_type: Text
 identifiers:
