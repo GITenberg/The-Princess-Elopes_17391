@@ -1,0 +1,35 @@
+_repo: The-Princess-Elopes_17391
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fisher, Harrison
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '25149'
+    url: http://www.gutenberg.org/2009/agents/25149
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacGrath, Harold
+    birthdate: 1871
+    deathdate: 1932
+    gutenberg_agent_id: '750'
+    url: http://www.gutenberg.org/2009/agents/750
+    wikipedia: http://en.wikipedia.org/wiki/Harold_MacGrath
+description: '"An extravagant romance of a European Duchy."'
+gutenberg_issued: '2005-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Europe -- Fiction'
+- !lcc 'PS'
+title: The Princess Elopes
+url: http://www.gutenberg.org/ebooks/17391
